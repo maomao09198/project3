@@ -141,7 +141,6 @@ a{
     width: 75%;
     height: auto;
   }
-  
   .overlay {
     position: absolute;
     top: 0;
@@ -154,11 +153,9 @@ a{
     transition: .3s ease;
     background-color: black;
   }
-  
   .box:hover .overlay {
     opacity: 0.5;
-  }
-  
+  } 
   .icon {
     color: white;
     font-size: 100px;
@@ -169,7 +166,6 @@ a{
     -ms-transform: translate(-50%, -50%);
     text-align: center;
   }
-  
   .fa-user:hover {
     color: #eee;
 }
